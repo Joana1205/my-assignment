@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfc225ea.chunk.css",
+    "main.js": "/static/js/main.ef9f6559.chunk.js",
+    "main.js.map": "/static/js/main.ef9f6559.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2c9eb35c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2c9eb35c.js.map",
+    "static/js/2.57992f05.chunk.js": "/static/js/2.57992f05.chunk.js",
+    "static/js/2.57992f05.chunk.js.map": "/static/js/2.57992f05.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c221562f89dc0db4367e1beaf10091d5.js": "/precache-manifest.c221562f89dc0db4367e1beaf10091d5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bfc225ea.chunk.css.map": "/static/css/main.bfc225ea.chunk.css.map",
+    "static/js/2.57992f05.chunk.js.LICENSE.txt": "/static/js/2.57992f05.chunk.js.LICENSE.txt",
+    "static/media/hulk-1.jpg": "/static/media/hulk-1.5f1cd582.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/venom-1.jpg": "/static/media/venom-1.294dd39b.jpg",
+    "static/media/venom-2.jpg": "/static/media/venom-2.5eb62fe8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c9eb35c.js",
+    "static/js/2.57992f05.chunk.js",
+    "static/css/main.bfc225ea.chunk.css",
+    "static/js/main.ef9f6559.chunk.js"
+  ]
+}
